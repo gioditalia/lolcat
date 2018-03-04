@@ -8,5 +8,5 @@ setup(name='lolcat',
       author='Wijnand Modderman-Lenstra',
       author_email='maze@pyth0n.org',
       url='https://github.com/tehmaze/lolcat/',
-      scripts=['lolcat'],
+      scripts=['lolcat', 'lolcat.exe'],
      )
